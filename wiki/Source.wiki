@@ -1,0 +1,17 @@
+#labels Featured
+Source code is hosted on *[https://github.com/kghost/android-static-live-wallpaper github]*
+
+
+==== Browse ====
+
+https://github.com/kghost/android-static-live-wallpaper
+
+==== Download ====
+
+https://github.com/kghost/android-static-live-wallpaper/archives/master
+
+==== Checkout using Git ====
+
+{{{
+git checkout git://github.com/kghost/android-static-live-wallpaper.git
+}}}
